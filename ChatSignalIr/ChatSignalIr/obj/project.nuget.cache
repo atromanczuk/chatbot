@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwAkYm1KrSuIFXGmNs7Tje12EElFlTYXsVO7XSn7drd41yAJXPBkrfd1rWKHcyS5X91yKwHwvX4wb0GdzcSvvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NB-81\\Desktop\\Chat\\chatbot\\ChatSignalIr\\ChatSignalIr\\ChatSignalIr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NB-81\\.nuget\\packages\\microsoft.aspnet.signalr\\2.4.1\\microsoft.aspnet.signalr.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
